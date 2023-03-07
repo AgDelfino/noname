@@ -30,13 +30,13 @@ export default function Home() {
 
           {/* CAJA SECUNDARIA  */}
           <div className='md:h-[50%] w-full bg-slate-400 flex flex-col-reverse md:flex-row'>
-            
+
             {/* CONTENEDORES DE IMÁGEN */}
             <div className='md:w-[30%] bg-red-200'> <Image className='object-cover object-center h-full w-full p-2' src={"https://images.pexels.com/photos/13869886/pexels-photo-13869886.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"} width={1500} height={1500}/></div>
             <div className='md:w-[70%] bg-blue-400'> <Image className='object-cover object-center h-full w-full p-2' src={"https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"} width={1500} height={1500}/></div>
           </div>
         </div>
-
+        <div>HOLA</div>
       </main>
     </>
   )
