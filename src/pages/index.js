@@ -36,7 +36,7 @@ export default function Home() {
             <div className='md:w-[70%] bg-blue-400'> <Image className='object-cover object-center h-full w-full p-2' src={"https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"} width={1500} height={1500}/></div>
           </div>
         </div>
-        <div>HOLA</div>
+    
       </main>
     </>
   )
